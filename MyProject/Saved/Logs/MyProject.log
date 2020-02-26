@@ -639,3 +639,184 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.26-20.30.23:985][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2020.02.26-20.30.38:240][821]LogSlate: Took 0.012051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2020.02.26-20.31.04:172][822]LogSlate: Took 0.013906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.26-20.34.14:080][817]Cmd: TRANSACTION UNDO
+[2020.02.26-20.34.14:080][817]LogEditorTransaction: Undo Move Actors
+[2020.02.26-20.34.33:241][976]Cmd: TRANSACTION UNDO
+[2020.02.26-20.34.33:241][976]LogEditorTransaction: Undo Move Actors
+[2020.02.26-20.34.38:450][522]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-20.34.38:996][571]LogActorFactory: Actor Factory created Cylinder
+[2020.02.26-20.34.41:924][900]Cmd: TRANSACTION UNDO
+[2020.02.26-20.34.41:924][900]LogEditorTransaction: Undo Move Actors
+[2020.02.26-20.35.02:608][293]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.26-20.35.05:285][508]Cmd: TRANSACTION UNDO
+[2020.02.26-20.35.05:285][508]LogEditorTransaction: Undo Move Actors
+[2020.02.26-20.35.25:955][541]Cmd: TRANSACTION UNDO
+[2020.02.26-20.35.25:955][541]LogEditorTransaction: Undo Move Actors
+[2020.02.26-20.35.31:433][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.26-20.35.31:438][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.26-20.35.31:450][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.26-20.35.31:526][ 77]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 27, 2020, 2:35:31 AM)
+[2020.02.26-20.35.31:527][ 77]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.26-20.35.31:541][ 77]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.26-20.35.31:558][ 77]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.26-20.35.31:574][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015278s)
+[2020.02.26-20.35.31:575][ 77]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.26-20.35.31:575][ 77]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2020.02.26-20.35.31:575][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017264s)
+[2020.02.26-20.35.31:606][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.02.26-20.35.31:609][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.26-20.35.31:609][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.26-20.35.31:609][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.26-20.35.31:609][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.26-20.35.31:609][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.26-20.35.31:609][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.26-20.35.31:609][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.26-20.35.31:609][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.26-20.35.31:610][ 77]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.26-20.35.31:610][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: Name: Speakers (5- Razer Megalodon)
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: Is Default: Yes
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: Channel Order:
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 1: FrontRight
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 4: BackLeft
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 5: BackRight
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 6: SideLeft
+[2020.02.26-20.35.31:613][ 77]LogAudioMixer: Display: 7: SideRight
+[2020.02.26-20.35.31:618][ 77]LogAudioMixer: Display: Using Audio Device Speakers (5- Razer Megalodon)
+[2020.02.26-20.35.31:620][ 77]LogInit: FAudioDevice initialized.
+[2020.02.26-20.35.31:650][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.26-20.35.31:670][ 77]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.26-23.35.31
+[2020.02.26-20.35.31:671][ 77]LogWorld: Bringing up level for play took: 0.002722
+[2020.02.26-20.35.31:673][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.26-20.35.31:728][ 77]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.26-20.35.31:729][ 77]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.897
+[2020.02.26-20.35.31:729][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.26-20.35.38:259][843]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-20.35.38:259][843]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-20.35.38:259][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.26-20.35.38:260][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-20.35.38:260][843]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.26-20.35.38:260][843]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-20.35.38:260][843]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-20.35.38:260][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-20.35.38:264][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.26-20.35.38:264][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.26-20.35.38:268][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-20.35.38:294][843]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-20.35.38:296][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-20.35.38:299][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.26-20.35.38:362][848]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.26-20.35.39:826][ 18]MapCheck: New page: Map Check
+[2020.02.26-20.35.39:863][ 18]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.26-20.35.39:864][ 18]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.26-20.35.39:889][ 18]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.02.26-20.35.39:933][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.26-20.35.39:967][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:005][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:022][ 18]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.26-20.35.40:022][ 18]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.26-20.35.40:022][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:038][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:055][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:071][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:087][ 18]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.02.26-20.35.40:087][ 18]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.02.26-20.35.40:087][ 18]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.02.26-20.35.40:087][ 18]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.02.26-20.35.40:087][ 18]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.02.26-20.35.40:087][ 18]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.02.26-20.35.40:088][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:106][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.40:124][ 18]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.26-20.35.41:782][ 18]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.02.26-20.35.41:782][ 18]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.26-20.35.41:783][ 18]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.02.26-20.35.41:783][ 18]TextureStreamingBuild: Display: Compiling optional shaders took 1.831 seconds.
+[2020.02.26-20.35.41:811][ 18]LogLevel: Display: Export Material TexCoord Scales took 0.028 seconds.
+[2020.02.26-20.35.41:814][ 18]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.02.26-20.35.41:844][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.26-20.35.41:865][ 18]LightingResults: New page: Lighting Build - Feb 27, 2020, 2:35:41 AM
+[2020.02.26-20.35.42:114][ 18]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.26-20.35.42:170][ 18]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.26-20.35.42:260][ 18]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.26-20.35.44:581][ 18]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.26-20.35.44:581][ 18]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10748
+[2020.02.26-20.35.55:505][ 18]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.26-20.35.55:505][ 18]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.26-20.35.55:505][ 18]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.26-20.35.55:505][ 18]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.26-20.35.55:505][ 18]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.26-20.35.56:057][ 18]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.26-20.35.56:057][ 18]MapCheck: New page: ThirdPersonExampleMap - Feb 27, 2020, 2:35:56 AM
+[2020.02.26-20.35.56:057][ 18]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.02.26-20.35.56:058][ 18]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.539ms to complete.
+[2020.02.26-20.35.56:059][ 18]LogEditorBuildUtils: Build time 0:16
+[2020.02.26-20.35.56:411][ 19]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.02.26-20.35.56:434][ 19]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.26-20.35.56:434][ 19]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.26-20.35.56:434][ 19]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.02.26-20.35.56:514][ 19]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.26-20.35.56:514][ 19]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.26-20.35.56:548][ 20]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.02.26-20.35.56:568][ 20]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.26-20.35.56:568][ 20]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.26-20.35.56:568][ 20]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.02.26-20.35.56:651][ 20]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.02.26-20.35.56:651][ 20]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.26-20.35.57:546][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.26-20.36.03:035][ 38]Job is a success!
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:          1: 8.3% covering 6.3% of volume
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:          2: 89.6% covering 1.0% of volume
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.26-20.36.03:373][ 39]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 48 bricks 	 100.0% (Persistent Level)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.02.26-20.36.03:832][ 39]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.02.26-20.36.04:032][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.02.26-20.36.05:660][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.02.26-20.36.05:660][ 39]Lightmass on VEX-PC: 4.42 sec total, 158 ms importing, 18 ms setup, 750 ms photons, 3.48 sec processing, 0 ms extra exporting [15/15 mappings]. Threads: 38.2 sec total, 5.17 sec processing.
+[2020.02.26-20.36.05:664][ 39]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 15 meshes in 3 LightmapResourceClusters (5.0 Meshes per cluster).
+[2020.02.26-20.36.05:695][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.02.26-20.36.05:713][ 39]LogStaticLightingSystem: Illumination: 23.8 sec (380 ms encoding lightmaps, 285 ms encoding shadowmaps)
+[2020.02.26-20.36.05:713][ 39]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.02.26-20.36.05:713][ 39]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.26-20.36.06:490][ 39]DumpUnbuiltLightIteractions
+[2020.02.26-20.36.06:490][ 39]Lights with unbuilt interactions: 0
+[2020.02.26-20.36.06:490][ 39]
+[2020.02.26-20.36.06:490][ 39]Primitives with unbuilt interactions: 0
+[2020.02.26-20.36.06:601][ 40]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.26-20.36.06:601][ 40]MapCheck: New page: ThirdPersonExampleMap - Feb 27, 2020, 2:36:06 AM
+[2020.02.26-20.36.06:601][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.405ms to complete.
+[2020.02.26-20.36.07:687][169]LogSlate: Window 'Message Log' being destroyed
+[2020.02.26-20.36.07:689][169]LogSlate: Window 'Message Log' being destroyed
+[2020.02.26-20.36.11:023][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.26-20.36.11:202][554]LogSavePackage: Moving '../../../../Users/Work/Documents/GitHub/NOED/MyProject/Saved/ThirdPersonExampleMap98B5201E4789C66CE8F6269CDC191CF9.tmp' to '../../../../Users/Work/Documents/GitHub/NOED/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.26-20.36.11:292][554]LogSavePackage: Moving '../../../../Users/Work/Documents/GitHub/NOED/MyProject/Saved/ThirdPersonExampleMap_BuiltDataA32B9D4D494DD0D8BBDF40B945E7E83C.tmp' to '../../../../Users/Work/Documents/GitHub/NOED/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.26-20.36.11:305][554]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.26-20.36.11:305][554]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.26-20.36.11:305][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
