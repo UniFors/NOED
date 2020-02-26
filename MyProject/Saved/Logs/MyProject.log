@@ -868,3 +868,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.26-20.26.45:799][187]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.26-20.26.45:799][187]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.02.26-20.26.45:799][187]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.02.26-20.30.49:395][917]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
